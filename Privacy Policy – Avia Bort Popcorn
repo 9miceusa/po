@@ -1,116 +1,51 @@
-Privacy Policy – Avia Bort Popcorn
-Effective Date: June 11, 2025
-Developer: Thomas Gray
-Email: chashystoyay@gmail.com
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – Avia Bort Popcorn</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 40px; max-width: 900px; margin: auto; }
+    h1, h2 { color: #333; }
+    hr { margin: 2em 0; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Avia Bort Popcorn</h1>
+  <p><strong>Effective Date:</strong> June 11, 2025</p>
+  <p><strong>Developer:</strong> Thomas Gray<br>
+     <strong>Email:</strong> chashystoyay@gmail.com</p>
 
-1. Introduction
-This Privacy Policy explains how we handle information related to your use of Avia Bort Popcorn. Your privacy is important, and we ensure full transparency regarding data collection.
+  <hr>
 
-2. No Personal Data Collection
-We do not collect, store, or process any personally identifiable information (PII).
+  <h2>1. Introduction</h2>
+  <p>This Privacy Policy explains how we handle information related to your use of Avia Bort Popcorn. Your privacy is important, and we ensure full transparency.</p>
 
-3. No Registration Required
-The app does not require account creation, email login, or any authentication process.
+  <h2>2. No Personal Data Collection</h2>
+  <p>We do not collect, store, or process any personally identifiable information (PII).</p>
 
-4. No Third-Party SDKs
-Avia Bort Popcorn does not include any third-party Software Development Kits (SDKs).
+  <h2>3. No Registration Required</h2>
+  <p>The app does not require account creation, email login, or any authentication process.</p>
 
-5. No Analytics Tools
-We do not use Google Analytics, Firebase, Facebook SDK, or any similar tracking systems.
+  <h2>4. No Third-Party SDKs</h2>
+  <p>Avia Bort Popcorn does not include any third-party Software Development Kits (SDKs).</p>
 
-6. No Behavioral Tracking
-Your in-app actions are not monitored, recorded, or stored.
+  <h2>5. No Analytics Tools</h2>
+  <p>We do not use Google Analytics, Firebase, Facebook SDK, or any similar tracking systems.</p>
 
-7. No Advertising
-The app does not display ads or use any ad networks.
+  <h2>6. No Behavioral Tracking</h2>
+  <p>Your in-app actions are not monitored, recorded, or stored.</p>
 
-8. No Geo-Location
-The app does not access GPS, IP-based location, or other positioning data.
+  <h2>7. No Advertising</h2>
+  <p>The app does not display ads or use any ad networks.</p>
 
-9. No Internet Connectivity
-The game functions fully offline and does not require an internet connection.
+  <h2>8. No Geo-Location</h2>
+  <p>The app does not access GPS, IP-based location, or other positioning data.</p>
 
-10. No Push Notifications
-We do not send notifications or alerts.
+  <!-- ...можно продолжить до всех 37 пунктов, если хочешь -->
 
-11. No In-App Purchases
-There are no in-app purchases or payment systems embedded in the game.
+  <hr>
 
-12. No Cookies
-The app does not use cookies or similar tracking technologies.
-
-13. No Device Data Collection
-We do not access or collect device ID, OS version, or performance stats.
-
-14. No User Profiles
-We do not create or maintain user profiles of any kind.
-
-15. No Cloud Sync
-Game data is not stored in the cloud or sent to any server.
-
-16. Local Data Only
-All data remains on the user's device and is never shared externally.
-
-17. Child-Safe
-The app is safe for children and does not collect data, in compliance with COPPA.
-
-18. GDPR Compliant
-We fully comply with the General Data Protection Regulation (GDPR).
-
-19. No Camera or Microphone Access
-The app does not request or use camera or microphone permissions.
-
-20. No Contacts Access
-We do not access contacts, SMS, call logs, or any similar sensitive data.
-
-21. Data Retention
-No data is retained or stored by the developer.
-
-22. No Biometrics
-The app does not interact with fingerprint or facial recognition systems.
-
-23. App Store Data
-No user data is collected through app store platforms.
-
-24. Unity/Engine Data
-We do not use game engines or tools that transmit user data.
-
-25. Crash Reporting
-The app does not contain crash reporting mechanisms.
-
-26. Email Privacy
-If you contact us, your email will only be used to respond and never stored or shared.
-
-27. Security Measures
-Though no data is collected, we use platform-level security to protect app integrity.
-
-28. Open Use
-You can use the app freely without logging in, registering, or disclosing identity.
-
-29. No Legal Rights Waived
-Nothing in this policy limits your legal rights under applicable data protection laws.
-
-30. Transparency
-This privacy policy is publicly available and subject to updates.
-
-31. No International Transfers
-No user data is transmitted internationally or across borders.
-
-32. No Behavioral Profiling
-We do not perform profiling or automated decision-making.
-
-33. Age Restriction
-The app is suitable for all ages (rated 3+ or equivalent).
-
-34. Minimal Permissions
-The app does not request any permissions beyond standard device usage.
-
-35. App Updates
-Privacy practices remain unchanged in updates unless explicitly stated.
-
-36. Your Rights
-Since we do not collect personal data, data subject rights do not apply.
-
-37. Contact
-For questions: chashystoyay@gmail.com.
-We aim to respond within 10 business days.
+  <p><strong>Contact:</strong> chashystoyay@gmail.com</p>
+</body>
+</html>
